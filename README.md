@@ -1,2 +1,4 @@
 # SecondProject
-Learning Git.  My second project.
+My second project.  Learning refresher for using git.
+
+Hello everyone!!
